@@ -62,6 +62,10 @@
   - [Pricing List](/docs/{version}/whatsapp/pricing)
   - [Templates](/docs/{version}/whatsapp/templates)
 
+- Mail
+
+  - [Templates](/docs/{version}/mail/templates)
+
 <!--
 - MIP
 
